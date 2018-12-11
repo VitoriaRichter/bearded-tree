@@ -1,0 +1,39 @@
+.form {
+    width: 50%;
+    margin: 100px auto 420px;
+    padding: 30px;
+    border: 1px solid white;
+    background-color: rgba(17, 105, 61, 0.5);
+}
+textarea {
+    width: 50%;
+    height: 50%;
+    margin-bottom: 30px;
+    display: block;
+}
+
+input {
+    display: block;
+}
+.input {
+   width: 50%;
+}
+.form h2 {
+    color: white;
+}
+.form h2 {
+    margin: 30px;
+    padding: 30px;
+}
+.form p {
+    color: white;
+    margin: 10px;
+    text-align: left;
+}
+.our-story {
+    background-image: url(../images/ourstory.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 1000px;
+}
