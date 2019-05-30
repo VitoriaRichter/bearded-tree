@@ -6,9 +6,11 @@ body {
     color: green;
 }
 h1 {
-    font-size: 20px;
+    font-size: 24px;
     color: #11693d;
     margin-bottom: 45px;
+    text-transform: none;
+
 }
 #logo {
     margin-top: 50px;
